@@ -17,3 +17,4 @@ def split_at_first_digit(formula):
         digit_location += 1
     if digit_location == len(formula):
         return formula, 1
+
